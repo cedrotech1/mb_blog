@@ -46,7 +46,7 @@ const options = {
       {
         
         // url: "https://blogbeckend.onrender.com/",
-        url: "http://localhost:2400/",
+        url: "https://mb-blog-d2st.onrender.com//",
       },
     ],
     security: [
