@@ -46,7 +46,7 @@ const options = {
       {
         
         // url: "https://blogbeckend.onrender.com/",
-        url: "https://mb-blog-d2st.onrender.com//",
+        url: "https://mb-blog-d2st.onrender.com/",
       },
     ],
     security: [
